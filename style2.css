@@ -1,0 +1,61 @@
+@import url('https://fonts.googleapis.com/css2?family=Poppins:wght@200;700&display=swap');
+
+h1{
+    position:static;
+    top: 5rem;
+    font-size: 6rem;
+    letter-spacing: 8px;
+    color: rgb(145, 7, 7);
+    text-shadow: 0 0 10px rgba(215, 9, 95, 0.3);
+    background-image: url(mbbs.jpeg);
+    
+}
+
+ul{
+   
+    background-image:  url(list.jpeg);;
+}
+.bg{
+    width:100%;
+    background-attachment: fixed;
+    background-size: cover;
+    background-position: center;
+    height:500px;
+
+}
+h4{
+    background-color: wheat;
+}
+.bg1{
+    top: 5rem;
+    font-size: 6rem;
+}
+.bg2{
+    border-radius: 9;
+    background-image: url(university\ san.jpg);
+}
+.bg3{
+    border-radius: 10;
+    background-image: url(loss.jpg);
+}
+.bg4
+{
+    background-image: url(icl.jpg);
+}
+.bg5{
+    background-image: url(jhons.jpeg);
+}
+.bg6
+{
+background-image: url(cam.jpg);
+}
+.bg7{
+    background-image: url(oxford.jpg);
+}
+.bg8
+{
+    background-image: url(stanford.jpg);
+}
+.bg9{
+    background-image: url(harvard.jpg);
+}
